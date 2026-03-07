@@ -63,7 +63,7 @@ I enjoy building projects, experimenting with new ideas, and understanding how s
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Steveumbas23
-- Email: your-email@example.com
+- Email: umbasteve10@gmail.com
 
 ---
 

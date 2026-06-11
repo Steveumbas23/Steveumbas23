@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- TOP CLOUD BANNER - Gear 5 Swirl Style -->
-<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:f0ecff,50:faf8ff,100:ede8f5&height=200&section=header&text=Hello%20World%2C%20I'm%20Steve&fontSize=40&fontColor=3a2a5e&fontAlignY=50&desc=A%20Web%20and%20Mobile%20Developer&descAlignY=68&descSize=18&descColor=6a56a0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,30:4d0000,70:8b0000,100:1a0000&height=250&section=header&text=Hi,%20I'm%20Steve%20Umbas&fontSize=50&fontColor=D4AF37&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%20Developer&descAlignY=68&descSize=22&descColor=F5D76E&animation=fadeIn" width="100%"/>
 
-<br/>
+</div>
 
-<!-- YOUR CONTENT HERE -->
+<br>
 
-🌀 **Web & Mobile Developer** &nbsp;|&nbsp; ☁️ Building amazing experiences
+<div align="center">
 
-<br/>
+### 💻 Building Intelligent Applications with AI
 
-<!-- BOTTOM CLOUD BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:ede8f5,50:faf8ff,100:f0ecff&height=150&section=footer" width="100%"/>
+*Web Development • Artificial Intelligence • Machine Learning • Mobile Development*
 
 </div>

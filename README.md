@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1e4a,100:0e3a7a&height=200&section=header&text=Hello%20World%2C%20I'm%20Steve%20Umbas&fontSize=36&fontColor=ffffff&fontAlignY=48&desc=A%20Web%20and%20Mobile%20Developer&descAlignY=66&descSize=18&descColor=38bdf8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1e4a,100:0e3a7a&height=220&section=header&text=Hello%20World%2C%20I'm%20Steve%20Umbas&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
+
+<!-- SUBTITLE BELOW BANNER -->
+<h3>🖥️ A Web and Mobile Developer</h3>
+
+<br/>
 
 </div>
 
@@ -10,6 +15,8 @@ I'm Steve Umbas, a recent Informatics graduate with a strong passion for Softwar
 My interests extend to Machine Learning, Deep Learning, Transfer Learning, and Large Language Models (LLMs), where I enjoy exploring how intelligent systems can solve complex real-world challenges. In addition to web development, I am also expanding my knowledge of mobile application development, cloud technologies, and cross-platform architectures to build seamless experiences across different platforms. As a fast learner and problem solver, I am passionate about transforming ideas into impactful solutions while continuously exploring emerging technologies in AI, software engineering, automation, and cloud computing.
 
 <div align="center">
+
+<br/>
 
 <!-- BOTTOM BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e3a7a,60:0a1e4a,100:050d1a&height=140&section=footer&reversal=true" width="100%"/>
